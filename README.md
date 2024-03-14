@@ -9,8 +9,7 @@ pip install wallpaper-downloader
 
 # Usage
 ```python
-from walldown import WallpaperFlare
-from walldown import download_url
+from walldown import WallpaperFlare, download_url
 
 
 wf = WallpaperFlare("Space")
