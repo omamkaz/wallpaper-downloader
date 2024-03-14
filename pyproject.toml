@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "wallpaper-downloader"
-version = "0.0.1"
+version = "0.0.2"
 description = "wallpaper-downloader is a simple Python module to easily download wallpaper images from websites that we supported."
 authors = ["Osama Mohammed Al-zabidi <omamkaz@gmail.com>"]
 license = "GPL-3.0"
