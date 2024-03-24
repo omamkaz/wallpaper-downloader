@@ -1,11 +1,18 @@
 # Wallpaper Downloader
 wallpaper-downloader is a simple Python module to easily download wallpaper images from websites that we supported.
 
-
 # Installation
 ```bash
 pip install wallpaper-downloader
 ```
+
+# Supported Websites
+ - [x] wallpaperflare.com
+ - [ ] pexels.com
+ - [ ] pixabay.com
+ - [ ] unsplash.com
+ - [ ] wallpapercave.com
+ - [ ] wallpapersok.com
 
 # Usage
 ```python
